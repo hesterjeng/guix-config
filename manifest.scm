@@ -7,7 +7,8 @@
    "nlopt"
    "openssl"
    "libev"
-   "gcc"
+   "gcc-toolchain"
+   "glibc"
    "libgccjit"
    "python"
    "direnv"
@@ -31,4 +32,5 @@
    "grep"
    "python-dateutil"
    "waybar"
+   "libxml2"
    ))
