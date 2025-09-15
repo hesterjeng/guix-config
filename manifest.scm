@@ -30,4 +30,5 @@
    "less"
    "grep"
    "python-dateutil"
+   "waybar"
    ))
