@@ -1,5 +1,6 @@
 (specifications->manifest
  '(
+   "source"
    "bzip2"
    "git"
    "make"
