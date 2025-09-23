@@ -1,5 +1,6 @@
 (specifications->manifest
  '(
+   "pkg-config"
    "rlwrap"
    "bzip2"
    "git"
