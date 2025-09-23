@@ -1,5 +1,6 @@
 (specifications->manifest
  '(
+   "bzip2"
    "git"
    "make"
    "patch"
