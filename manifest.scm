@@ -1,5 +1,8 @@
 (specifications->manifest
  '(
+   "make"
+   "patch"
+   "unzip"
    "nss-certs"
    "glibc-locales"
    "gmp"
