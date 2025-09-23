@@ -1,5 +1,6 @@
 (specifications->manifest
  '(
+   "rlwrap"
    "bzip2"
    "git"
    "make"
