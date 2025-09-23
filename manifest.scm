@@ -1,5 +1,6 @@
 (specifications->manifest
  '(
+   "git"
    "make"
    "patch"
    "unzip"
