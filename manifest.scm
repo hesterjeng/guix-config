@@ -1,5 +1,6 @@
 (specifications->manifest
  '(
+   "nushell"
    "pkg-config"
    "rlwrap"
    "bzip2"
