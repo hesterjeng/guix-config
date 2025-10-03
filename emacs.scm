@@ -42,6 +42,7 @@
 
     ;; Scheme
     "emacs-geiser"
+    "emacs-geiser-guile"
     ;;"emacs-quack"
   ))
 
