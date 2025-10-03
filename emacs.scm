@@ -5,6 +5,7 @@
     "emacs-helm-projectile"
     "emacs-which-key"
     "emacs-use-package"
+    "emacs-dashboard"
 
     ;; Evil mode
     "emacs-evil"
