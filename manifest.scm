@@ -1,5 +1,6 @@
 (specifications->manifest
  '(
+   "guix"
    "nushell"
    "pkg-config"
    "rlwrap"
@@ -43,4 +44,5 @@
    "python-dateutil"
    "waybar"
    "libxml2"
+   "emacs"
    ))
