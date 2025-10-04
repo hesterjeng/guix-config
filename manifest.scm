@@ -1,6 +1,7 @@
 (specifications->manifest
  '(
    "guix"
+   "fuzzel"
    "nushell"
    "pkg-config"
    "rlwrap"
